@@ -1,0 +1,1 @@
+This repository contains code for generating synthetic data based on the MIMIC-III dataset. Three ML approaches (SVM, RNN, and Transformer) are implemented to predict ICU readmission using time-series EHR data.
